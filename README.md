@@ -4,7 +4,7 @@
 
 
 ## Overview 📊
-This project aims to revolutionize financial advisory services by integrating generative AI into the Bank of Baroda’s website and application. Leveraging customer account details already stored in the bank's database, our solution provides personalized, data-driven investment recommendations based on individual financial goals such as investment amount and period.
+This project aims to revolutionize financial advisory services by integrating generative AI into the banks website or application. Leveraging customer account details already stored in the bank's database, our solution provides personalized, data-driven investment recommendations based on individual financial goals such as investment amount and period.
 
 ## Features ✨
 - **Personalized Financial Advice:** Tailored recommendations based on user profiles, risk tolerance, and financial goals.
