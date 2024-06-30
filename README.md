@@ -9,7 +9,7 @@ This project aims to revolutionize financial advisory services by integrating ge
 ## Features ✨
 - **Personalized Financial Advice:** Tailored recommendations based on user profiles, risk tolerance, and financial goals.
 - **Real-Time Insights:** Up-to-date market analysis and predictive modeling for timely decision-making.
-- **Seamless Integration:** Direct integration with Bank of Baroda’s existing infrastructure.
+- **Seamless Integration:** Direct integration with banks existing infrastructure.
 - **User-Friendly Interface:** Intuitive design for easy access and interaction.
 - **Continuous Learning:** AI improves over time based on user feedback and market trends.
 
