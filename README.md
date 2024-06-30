@@ -1,5 +1,7 @@
 # AI-Driven Financial Advisory Service: Soteria 🏦🔮
 'Soteria' symbolizes the Greek goddess of safety and preservation, signifying secure financial advice.
+![Alt Text](https://cdn.w3villa.com/assets/374/original/Artificial_Intelligence_for_Banking_and_Finance.jpg)
+
 
 ## Overview 📊
 This project aims to revolutionize financial advisory services by integrating generative AI into the Bank of Baroda’s website and application. Leveraging customer account details already stored in the bank's database, our solution provides personalized, data-driven investment recommendations based on individual financial goals such as investment amount and period.
