@@ -33,6 +33,8 @@ This project aims to revolutionize financial advisory services by integrating ge
    - User provides feedback on the recommendations.
    - AI system learns from user interactions to refine future advice.
   
+![Application Flow](https://www.canva.com/design/DAGJnwgUDb0/QDZNzjJI6ZIsqYYUwdg-7w/view?utm_content=DAGJnwgUDb0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+  
 ### Steps 🚀
 1. **Clone the repository:**
    ```bash
